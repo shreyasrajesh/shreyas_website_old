@@ -1,3 +1,5 @@
 Name: Shreyas Rajesh
 Markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+plugins: 
+  - jekyll-sitemap
